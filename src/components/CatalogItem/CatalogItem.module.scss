@@ -1,0 +1,36 @@
+@import '../../style/varibles.scss';
+
+
+.link__CatalogItem {
+	&:hover {
+		scale: 1.05;
+	}
+
+	&:active {
+		scale: .95;
+	}
+}
+
+.CatalogItem {
+	display: flex;
+	flex-direction: column;
+
+	&>div {
+		padding: 15px;
+
+		&>img {
+			border-radius: 10px;
+			margin-bottom: 15px;
+		}
+
+		&>h3 {
+			letter-spacing: 1.5px;
+			font-size: 22px;
+		}
+
+		&>p {
+			font-size: 18px;
+			font-weight: 500;
+		}
+	}
+}

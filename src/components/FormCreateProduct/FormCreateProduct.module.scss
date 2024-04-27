@@ -1,0 +1,16 @@
+@import '../../style/varibles.scss';
+
+.formCreateProduct {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+
+	>div {
+		display: flex;
+		gap: 15px;
+
+		>p {
+			color: $orange;
+		}
+	}
+}

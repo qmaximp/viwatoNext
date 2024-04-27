@@ -1,0 +1,70 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/CatalogItem/CatalogItem.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CatalogItem_link__CatalogItem__5LTRA:hover {
+  scale: 1.05;
+}
+.CatalogItem_link__CatalogItem__5LTRA:active {
+  scale: 0.95;
+}
+
+.CatalogItem_CatalogItem__6rEia {
+  display: flex;
+  flex-direction: column;
+}
+.CatalogItem_CatalogItem__6rEia > div {
+  padding: 15px;
+}
+.CatalogItem_CatalogItem__6rEia > div > img {
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.CatalogItem_CatalogItem__6rEia > div > h3 {
+  letter-spacing: 1.5px;
+  font-size: 22px;
+}
+.CatalogItem_CatalogItem__6rEia > div > p {
+  font-size: 18px;
+  font-weight: 500;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/Catalog/Catalog.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Catalog_catalog__IEVAj {
+  /* padding: 15px 30px; */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 15px;
+  gap: 15px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/components/Header/Header.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Header_header__MwWvM {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  padding: 15px;
+  margin-bottom: 40px;
+}
+.Header_header__link__tU9vJ {
+  display: flex;
+  gap: 20px;
+}
+.Header_header__link__tU9vJ > a {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fe5f1e;
+}
+.Header_header__link__tU9vJ > a:hover {
+  color: #ffdf8c;
+}
+.Header_header__filter__WrsmP {
+  display: flex;
+  gap: 20px;
+}
+.Header_header__filter__WrsmP > p {
+  font-weight: 600;
+  color: #fe5f1e;
+}

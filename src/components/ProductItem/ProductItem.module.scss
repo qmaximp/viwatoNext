@@ -1,0 +1,32 @@
+@import '../../style/varibles.scss';
+
+.productItem {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 60px;
+
+	&__img {
+		padding: 20px;
+		display: flex;
+		justify-content: center;
+
+		&>img {
+			border-radius: 10px;
+			width: 50%;
+		}
+	}
+
+	&__description {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		&>h2 {}
+
+		&>p {}
+
+		&>h3 {}
+
+		&>a {}
+	}
+}
