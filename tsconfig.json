@@ -35,7 +35,8 @@
     "src/components/Catalog/Catalog.jsx",
     "src/components/CatalogItem/CatalogItem.jsx",
     "src/app/page.jsx",
-    "src/app/product/[id]/page.js"
+    "src/app/product/[id]/page.jsx",
+    "src/app/createProduct/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
